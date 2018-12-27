@@ -71,7 +71,7 @@ Career_bot은 키워드로 작동합니다.
 ---
   
 # Hello! This Chatbot in Slack
-팀원: 최은영, 강민
+팀원: [최은영](https://github.com/eun02/chat_bot), 강민
 
 ## Requirements
 - click==6.7
