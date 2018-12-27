@@ -1,6 +1,3 @@
 main:
-  - title: "About"
-    url: "https://gitpitch.com/sksms17456/isescsoon"
   - title: "SSAFY Team No.7"
-    url: /machine-learning/
-  # - title: "About"
+    url: "https://gitpitch.com/sksms17456/isescsoon"
