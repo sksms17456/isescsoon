@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "aaa"
+title                    : "SSAFY Team No.7"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "aaaaa."
+name                     : "SSAFY Team No.7"
+description              : "The best Team of the SSAFY"
 url                      : "https://sksms17456.github.io"
 baseurl                  : "isescsoon" # "public"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -69,7 +69,7 @@ search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
+  index_name             : SSAFY Team No.7
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SSAFY Team No.7"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "The best team of the SSAFY"
+  location         : "The Republic of Korea"
   email            :
   links:
     - label: "Email"
